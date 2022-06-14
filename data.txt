@@ -1,4 +1,4 @@
-Client ID=eddb943c50aa4199ac04147cc258e1e1
-Client Secret=e94ca3559ba740e7aa032eaa1e98f6e1
-UserName=11174022568
-Playlist ID=2MeTGeJxxh9EYtOPijmQ94
+Client ID=
+Client Secret=
+UserName=
+Playlist ID=
